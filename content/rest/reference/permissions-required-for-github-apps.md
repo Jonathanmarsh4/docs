@@ -1,3 +1,4 @@
+![Gsport Vector Black (1)](https://user-images.githubusercontent.com/43302599/147598189-8f5a2660-2a75-410c-bb53-a8b2be176570.png)
 ---
 title: Permissions required for GitHub Apps
 intro: 'You can find the required permissions for each {% data variables.product.prodname_github_app %}-compatible endpoint.'
